@@ -1,0 +1,514 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "地点": "金水路大石桥立交南向北方向下桥口 南阳路路面有塌陷",
+        "marker-color": "#FFFF00",
+        "marker-symbol": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.64958941936491,
+          34.766245725068316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "地点": "平安大道龙子湖西路 塌陷",
+        "marker-color": "#FFFF00",
+        "marker-symbol": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.78775268793105,
+          34.79391352671052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#fa0000",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "地点": "紫金山南路 塌陷",
+        "marker-color": "#ffff00",
+        "marker-symbol": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.67639541625977,
+            34.69730798687288
+          ],
+          [
+            113.67605209350586,
+            34.67740556368357
+          ],
+          [
+            113.66987228393553,
+            34.67069976927592
+          ],
+          [
+            113.67107391357422,
+            34.66484057821928
+          ],
+          [
+            113.6836051940918,
+            34.653756396876815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "地点": "姚砦路红专路路口向南50M 塌陷",
+        "marker-color": "#ffff00",
+        "marker-symbol": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.69809985160828,
+          34.780786852529594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "地点": "花园路丰产路 大面积塌陷",
+        "marker-color": "#ffff00",
+        "marker-symbol": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.67590188980103,
+          34.784853503223424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "地点": "经八路（黄河路-红旗路）塌陷",
+        "marker-color": "#ffff00",
+        "marker-symbol": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.6635959148407,
+          34.776764063662135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "地点": "纬一路（经八路-文化路）塌陷",
+        "marker-color": "#ffff00",
+        "marker-symbol": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.66244792938232,
+          34.76792469516715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#fa0000",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.64593625068665,
+            34.77042766329408
+          ],
+          [
+            113.64656925201415,
+            34.76929076112423
+          ],
+          [
+            113.64829659461975,
+            34.76763385239886
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "地点": "南阳路（优胜南路-岗杜街）塌陷",
+        "marker-color": "#ffff00",
+        "marker-symbol": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.64795327186584,
+          34.76796876216383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "地点": "紫荆山南路 塌陷",
+        "marker-color": "#ffff00",
+        "marker-symbol": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.6766529083252,
+          34.686863340119274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.66361737251282,
+            34.77791848754487
+          ],
+          [
+            113.66356372833252,
+            34.77575943736815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.65089833736418,
+            34.765443685303275
+          ],
+          [
+            113.65029752254486,
+            34.76562436527106
+          ],
+          [
+            113.64985227584837,
+            34.766047419258214
+          ],
+          [
+            113.64947140216827,
+            34.76647047107713
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.66103172302245,
+            34.76795113536799
+          ],
+          [
+            113.66351008415222,
+            34.76794232196865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#fa0000",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.69811460375784,
+            34.78092894635909
+          ],
+          [
+            113.6981213092804,
+            34.78051918674417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.66094589233398,
+            34.75384849262683
+          ],
+          [
+            113.66673946380615,
+            34.757709330544515
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "地点": "人民路 南向北有道路塌陷",
+        "marker-color": "#ffff00",
+        "marker-symbol": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.66412162780762,
+          34.755849451707896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.65405797958374,
+            34.75950746740764
+          ],
+          [
+            113.66075277328491,
+            34.757392008209465
+          ],
+          [
+            113.6581563949585,
+            34.75820294064171
+          ],
+          [
+            113.65740537643431,
+            34.75629899972085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "地点": "太康路民主路道路坍塌",
+        "marker-color": "#ffff00",
+        "marker-symbol": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.65819931030273,
+          34.7581676828755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            113.66072595119476,
+            34.761248273384986
+          ],
+          [
+            113.66072595119476,
+            34.76056076958714
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "地点": "市局门口道路坍塌",
+        "marker-color": "#ffff00",
+        "marker-symbol": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.6607313156128,
+          34.76092655757691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "地点": "三大街经北二路北口西侧道路坍塌",
+        "marker-color": "#ffff00",
+        "marker-symbol": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.74068260192871,
+          34.72692338672756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "地点": "索凌路连霍往北50米路东(桥坡道路塌陷15平方左右)",
+        "marker-color": "#ffff00",
+        "marker-symbol": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.6365807056427,
+          34.84762981765044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "地点": "经三林科西北角 道路塌陷",
+        "marker-color": "#ffff00",
+        "marker-symbol": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.68628203868866,
+          34.790197561618264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "地点": "花园路北环西向北拐弯处 道路塌陷",
+        "marker-color": "#ffff00",
+        "marker-symbol": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.67540836334229,
+          34.810720284487125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "地点": "体育路园田路东50米路北工地道路塌陷",
+        "marker-color": "#ffff00",
+        "marker-symbol": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.64666044712067,
+          34.83387984579462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "地点": "文化路三全路西200米路南丰庆路地铁站道路塌陷",
+        "marker-color": "#ffff00",
+        "marker-symbol": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.65049600601195,
+          34.83065225414973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "地点": "南阳路兴隆铺西北角老加油站道路塌陷",
+        "marker-color": "#ffff00",
+        "marker-symbol": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.61918926239014,
+          34.810438401463095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "地点": "宏达丰庆路西南角道路塌陷",
+        "marker-color": "#ffff00",
+        "marker-symbol": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.6421275138855,
+          34.82315741290697
+        ]
+      }
+    }
+  ]
+}
