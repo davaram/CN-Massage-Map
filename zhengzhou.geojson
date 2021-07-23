@@ -38,7 +38,7 @@
         "stroke-width": 5,
         "stroke-opacity": 1,
         "地点": "紫金山南路 塌陷",
-        "marker-color": "#ffff00",
+        "marker-color": "#ff0000",
         "marker-symbol": 3
       },
       "geometry": {
@@ -170,6 +170,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-size": "medium",
         "地点": "紫荆山南路 塌陷",
         "marker-color": "#ffff00",
         "marker-symbol": 8
