@@ -486,7 +486,7 @@
       "properties": {
         "地点": "南阳路兴隆铺西北角老加油站道路塌陷",
         "marker-color": "#ffff00",
-        "marker-symbol": 16
+        "marker-symbol": 17
       },
       "geometry": {
         "type": "Point",
@@ -501,7 +501,7 @@
       "properties": {
         "地点": "宏达丰庆路西南角道路塌陷",
         "marker-color": "#ffff00",
-        "marker-symbol": 16
+        "marker-symbol": 18
       },
       "geometry": {
         "type": "Point",
